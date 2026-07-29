@@ -22,5 +22,4 @@ Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the Uni
    *Asymptotic Analysis* **138** (2024), no. 1–2, 135–150. This was my undergraduate thesis under the supervision of
    Professor [Hung Tran](https://people.math.wisc.edu/~htran24/) and Professor
    Dang Duc Trong.
-
 {: .publications reversed="reversed"}
