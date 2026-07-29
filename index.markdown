@@ -10,7 +10,11 @@ Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the Uni
 
 ## Publications
 
-<!-- Begin every entry with "1."; the list calculates 1, 2, 3 automatically. -->
+<!-- Keep the newest work at the top and begin every entry with "1.".
+     The reversed list calculates the descending numbers automatically. -->
+
+1. **Subconvexity for sup-norm of theta lifts to $$U(1,n+1)$$**.
+   *In preparation, 2026+.*
 
 1. [**Optimal convergence rate for homogenization of convex
    Hamilton–Jacobi equations in the periodic spatial-temporal
@@ -19,6 +23,4 @@ Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the Uni
    Professor [Hung Tran](https://people.math.wisc.edu/~htran24/) and Professor
    Dang Duc Trong.
 
-1. **Subconvexity for sup-norm of theta lifts to $$U(1,n+1)$$**. *In preparation, 2026+.*
-
-{: .publications}
+{: .publications reversed="reversed"}
