@@ -1,7 +1,7 @@
 # Site settings
 title: Hoang Nguyen-Tien
 description: Personal website
-asset_version: "3"
+asset_version: "4"
 
 show_downloads: false
 logo: /assets/images/profile.jpg
