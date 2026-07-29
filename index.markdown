@@ -5,18 +5,8 @@ layout: default
 
 ## About Me
 
-Hi, I'm **HL963**. This is my personal space for sharing the work I am doing,
-the ideas I am exploring, and the things I am learning along the way.
+Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the University of Wisconsin-Madison, advised by Professor [Yingkun Li](https://lykpi.github.io). I am interested in automorphic forms.
 
-This page is ready to personalize. Replace this introduction with a short bio
-that tells visitors who you are, what you care about, and what you are working
-on now.
-
-## Interests
-
-* Add a subject or field you are curious about.
-* Add a skill, method, or technology you enjoy using.
-* Add a problem or community you would like your work to support.
 
 ## Publications
 
@@ -24,17 +14,10 @@ on now.
 
 1. **Publication title.** Add the authors, venue, year, and a link to the paper
    or project page.
-1. **Another publication.** Add the authors, venue, year, and a short note when
-   useful.
 {: .publications}
 
-## Background
+## Selected Work
 
-Add your education, professional experience, awards, or other milestones here.
-Keep each item concise and lead with the information most relevant to the work
-you want to do next.
+### Undergraduate work
 
-## Contact
-
-Add your preferred email address and professional links here when you are ready.
-You can also visit my [GitHub profile](https://github.com/hoangleo963).
+I wrote an undergraduate thesis on Hamilton-Jacobi equation under the supervision of Professor [Hung Tran](https://people.math.wisc.edu/~htran24/) and Professor Dang Duc Trong.
