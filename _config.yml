@@ -7,10 +7,9 @@ asset_version: "3"
 show_downloads: false
 logo: /assets/images/profile.jpg
 
-# This repository is a project site, so every generated asset and link needs
-# the repository name as its base path.
+# This repository is the account's root GitHub Pages site.
 url: "https://hoangleo963.github.io"
-baseurl: "/hl963.github.io"
+baseurl: ""
 domain: hoangleo963.github.io
 
 github_username: hoangleo963
