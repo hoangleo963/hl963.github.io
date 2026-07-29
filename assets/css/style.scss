@@ -65,7 +65,7 @@ nav .view {
   line-height: 1.4;
 }
 
-main h2 {
+.content h2 {
   border-bottom: 1px solid var(--line);
   font-size: 24px;
   letter-spacing: -0.025em;
@@ -73,11 +73,11 @@ main h2 {
   padding-bottom: 8px;
 }
 
-main h2:first-child {
+.content h2:first-child {
   margin-top: 0;
 }
 
-main h3 {
+.content h3 {
   font-size: 18px;
   margin: 28px 0 8px;
 }
