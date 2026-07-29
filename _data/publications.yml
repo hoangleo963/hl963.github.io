@@ -2,15 +2,18 @@
 # Keep sort_date in YYYY-MM-DD format and inside quotation marks.
 
 - sort_date: "2024-05-07"
+  section: publications
   text: >-
     [**Optimal convergence rate for homogenization of convex Hamilton–Jacobi
     equations in the periodic spatial-temporal
     environment**](https://journals.sagepub.com/doi/10.3233/ASY-241898),
     *Asymptotic Analysis* **138** (2024), no. 1–2, 135–150. This was my
     undergraduate thesis under the supervision of Professor [Hung
-    Tran](https://people.math.wisc.edu/~htran24/) and Professor Dang Duc Trong.
+    Tran](https://people.math.wisc.edu/~htran24/) and Professor [Dang Duc
+    Trong](https://mathscinet.ams.org/mathscinet/MRAuthorID/350542).
 
 - sort_date: "2026-12-31"
+  section: preprints
   text: >-
     **Subconvexity for sup-norm of theta lifts to $$U(1,n+1)$$**. *In
     preparation, 2026+.*
