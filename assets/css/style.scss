@@ -1,0 +1,120 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+:root {
+  --ink: #252525;
+  --muted: #666;
+  --paper: #fbfaf7;
+  --accent: #267cb9;
+  --line: #e7e3dc;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.65;
+}
+
+.wrapper {
+  padding-bottom: 64px;
+  padding-top: 56px;
+}
+
+header h1 {
+  letter-spacing: -0.04em;
+  margin-bottom: 24px;
+}
+
+header h1 a {
+  color: var(--ink);
+}
+
+.profile-image {
+  aspect-ratio: 1;
+  border-radius: 8px;
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.tagline {
+  color: var(--muted);
+  font-size: 15px;
+  margin: 20px 0 26px;
+}
+
+nav {
+  border-bottom: 1px solid var(--line);
+  border-top: 1px solid var(--line);
+  margin-bottom: 26px;
+  padding: 18px 0 10px;
+}
+
+nav .view {
+  margin-bottom: 8px;
+}
+
+.repository-link {
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+main h2 {
+  border-bottom: 1px solid var(--line);
+  font-size: 24px;
+  letter-spacing: -0.025em;
+  margin: 42px 0 18px;
+  padding-bottom: 8px;
+}
+
+main h2:first-child {
+  margin-top: 0;
+}
+
+main h3 {
+  font-size: 18px;
+  margin: 28px 0 8px;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover,
+a:focus {
+  color: #14577f;
+  font-weight: inherit;
+}
+
+footer {
+  color: var(--muted);
+}
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    padding: 32px 24px 56px;
+  }
+
+  .profile-image {
+    max-width: 220px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .wrapper {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

@@ -1,0 +1,25 @@
+# Site settings
+title: HL963
+description: Personal website
+tagline: Projects, interests, and background
+
+show_downloads: false
+logo: /assets/images/profile.png
+
+# This repository is a project site, so every generated asset and link needs
+# the repository name as its base path.
+url: "https://hoangleo963.github.io"
+baseurl: "/hl963.github.io"
+domain: hoangleo963.github.io
+
+github_username: hoangleo963
+
+# Build settings
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .DS_Store
+  - vendor/
