@@ -14,7 +14,7 @@
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img class="profile-image" src="{{ site.logo | relative_url }}" alt="Profile image for HL963">
+          <img class="profile-image" src="{{ site.logo | relative_url }}" alt="Profile image for {{ site.title }}">
         {% endif %}
 
         <p class="tagline">{{ site.tagline }}</p>
@@ -35,7 +35,7 @@
       </section>
 
       <footer>
-        <small>&copy; {{ site.time | date: "%Y" }} HL963</small>
+        <small>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</small>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
