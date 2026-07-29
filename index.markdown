@@ -18,18 +18,15 @@ on now.
 * Add a skill, method, or technology you enjoy using.
 * Add a problem or community you would like your work to support.
 
-## Selected Work
+## Publications
 
-### Project or publication title
+<!-- Begin every publication with "1."; Markdown calculates the visible number. -->
 
-Add a short explanation of the project, your role, and the result. Link the
-title to a project page, paper, demonstration, or source repository when it is
-ready.
-
-### Another piece of work
-
-Use this section for a second project, publication, talk, or other achievement
-you would like visitors to notice.
+1. **Publication title.** Add the authors, venue, year, and a link to the paper
+   or project page.
+1. **Another publication.** Add the authors, venue, year, and a short note when
+   useful.
+{: .publications}
 
 ## Background
 

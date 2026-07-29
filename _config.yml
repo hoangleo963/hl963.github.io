@@ -2,10 +2,10 @@
 title: HL963
 description: Personal website
 tagline: Projects, interests, and background
-asset_version: "2"
+asset_version: "3"
 
 show_downloads: false
-logo: /assets/images/profile.png
+logo: /assets/images/profile.jpg
 
 # This repository is a project site, so every generated asset and link needs
 # the repository name as its base path.
