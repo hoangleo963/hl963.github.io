@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the University of Wisconsin-Madison, advised by Professor [Yingkun Li](https://lykpi.github.io). I am interested in automorphic forms.
+Hi, I am **Hoang Nguyen-Tien** (in Vietnamese: *Nguyễn Tiến Hoàng*, a 4th year PhD student in Mathematics at the University of Wisconsin-Madison, advised by Professor [Yingkun Li](https://lykpi.github.io). I am interested in automorphic forms.
 
 
 ## Publications
