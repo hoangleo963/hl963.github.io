@@ -15,10 +15,10 @@ Hi, I am **Hoang Nguyen-Tien**, a 4th year PhD student in Mathematics at the Uni
 1. [**Optimal convergence rate for homogenization of convex
    Hamilton–Jacobi equations in the periodic spatial-temporal
    environment**](https://journals.sagepub.com/doi/10.3233/ASY-241898),
-   *Asymptotic Analysis* **138** (2024), no. 1–2, 135–150.
-
-1. *In preparation.* This was my undergraduate thesis under the supervision of
+   *Asymptotic Analysis* **138** (2024), no. 1–2, 135–150. This was my undergraduate thesis under the supervision of
    Professor [Hung Tran](https://people.math.wisc.edu/~htran24/) and Professor
    Dang Duc Trong.
+
+1. **Subconvexity for sup-norm of theta lifts to $$U(1,n+1)$$**. *In preparation, 2026+.*
 
 {: .publications}
