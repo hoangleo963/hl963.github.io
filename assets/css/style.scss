@@ -113,6 +113,14 @@ footer {
   .profile-image {
     max-width: 220px;
   }
+
+  nav {
+    border-top: 0;
+  }
+
+  .content {
+    border-top: 0;
+  }
 }
 
 @media screen and (max-width: 480px) {
